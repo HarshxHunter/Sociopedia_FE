@@ -7,7 +7,7 @@ const initialState = {
     posts: [],
     city: null,
     users: [],
-    URL: "http://localhost:3001",
+    URL: "https://sociopedia-backend-nrq5.onrender.com",
     isLoading: null
 };
 
