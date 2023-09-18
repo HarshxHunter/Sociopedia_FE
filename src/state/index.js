@@ -7,7 +7,7 @@ const initialState = {
     posts: [],
     city: null,
     users: [],
-    URL: "https://sociopedia-backend-nrq5.onrender.com",
+    URL: process.env.REACT_APP_BASE_URL,
     isLoading: null
 };
 
